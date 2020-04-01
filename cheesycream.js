@@ -9,33 +9,33 @@ var obj = [
     {'class': 'cat_auto', 'name': 'Designing An Autonomous Rocket'},
     {'class': 'cat_auto', 'name': 'Designing An Autonomous Honey Bee Bug Robot'},
     {'class': 'cat_auto', 'name': 'Designing An AI Autonomous Boat'},
-    {'class': 'cat_auto', 'name': 'Designing the Ultimate Next Gen Autonomous Car'},
-
-
-
+//    {'class': 'cat_auto', 'name': 'Designing the Ultimate Next Gen Autonomous Car'},
+//
+//
+//
     {'class': 'cat_drones', 'name': 'Designing An Attrack Drone'},
     {'class': 'cat_drones', 'name': 'Designing A find Person Drone'},
     {'class': 'cat_drones', 'name': 'Designing An fire fighter Drone'},
     {'class': 'cat_drones', 'name': 'Designing An inspection drone'},
     {'class': 'cat_drones', 'name': 'Designing An life guard drone Boat'},
-    {'class': 'cat_drones', 'name': 'Designing the Ultimate Next Gen Autonomous Drone'},
-    
-    
+//    {'class': 'cat_drones', 'name': 'Designing the Ultimate Next Gen Autonomous Drone'},
+//    
+//    
     {'class': 'cat_catapults', 'name': 'Designing A Electronic Catapult'},
     {'class': 'cat_catapults', 'name': 'Designing A Human Launch Catapult'},
     {'class': 'cat_catapults', 'name': 'Designing A Egg Safe Catapult'},
     {'class': 'cat_catapults', 'name': 'Designing A Granade Catapult'},
     {'class': 'cat_catapults', 'name': 'Designing A Underwater Catapult'},
     {'class': 'cat_catapults', 'name': 'Designing A Trampoline Catapult'},
-    
+//    
     {'class': 'cat_glasses', 'name': 'Designing An AI AR Glasses'},
     {'class': 'cat_glasses', 'name': 'Designing An AI AR Motorcycle Visor'},
     {'class': 'cat_glasses', 'name': 'Designing A AR Assisted Vision System'},
     {'class': 'cat_glasses', 'name': 'Designing Covert AR Glasses'},
-    {'class': 'cat_glasses', 'name': 'Remaking the Microsoft Hololens'},
-    {'class': 'cat_glasses', 'name': 'Designing AR Iron Man Helmet'},
-    
-    
+//    {'class': 'cat_glasses', 'name': 'Remaking the Microsoft Hololens'},
+//    {'class': 'cat_glasses', 'name': 'Designing AR Iron Man Helmet'},
+//    
+//    
     {'class': 'cat_lasers', 'name': 'Designing A Laser Bazooka'},
     {'class': 'cat_lasers', 'name': 'Designing A Laser Destruction System'},
     {'class': 'cat_lasers', 'name': 'Designing A Laser Automatic Blinder'},
