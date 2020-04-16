@@ -1,4 +1,4 @@
 /api/*  https://cheesycream.slite.com/:splat  200
 https://cheesycream.cheesycream.com/*  https://cheesycream.slite.com/:splat  200!
 https://test.cheesycream.com/* https://cheesycream.slite.com/:splat 200!
-https://stem.cheesycream.com/* https://stem.slite.com/:splat 200!
+https://stem.cheesycream.com/* https://stem.slite.com/:splat 200
